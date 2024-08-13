@@ -1,6 +1,12 @@
 # Biscoito da Sorte
 
-## Descrição
+Projeto onde o objetivo é utilizar o JavaScript para criar um gerador de frases de forma aleatória.
 
-Este é um projeto do CodeCademy (Mixed Messages), onde o objetivo é utilizar o JavaScript para criar um gerador de frases de forma aleatória.
+## Informações
+
+Este script é feito seguindo o caminho de aprendizagem Back-End Engineering da Codecademy. (projeto Mixed-Messages)
+
+## Status 
+
+Projeto está: Completo 
 
