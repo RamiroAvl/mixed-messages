@@ -1,6 +1,6 @@
 # Biscoito da Sorte
 
-Projeto onde o objetivo é utilizar o JavaScript para criar um gerador de frases de forma aleatória.
+Projeto simples onde o objetivo é utilizar o JavaScript para criar um gerador de frases de forma aleatória.
 
 ## Informações
 
